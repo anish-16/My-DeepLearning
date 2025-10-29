@@ -14,6 +14,7 @@ Welcome to **My-DeepLearning**, a hands-on collection of Jupyter Notebooks desig
 - [**sgd_vs_gd/**](./sgd_vs_gd) → Optimization Comparison: Illustrates the differences and practical trade-offs between Stochastic Gradient Descent (SGD) and Batch Gradient Descent (GD).
 - [**churn_prediction/**](./churn_prediction) → Industry Application: A real-world project demonstrating how to build a deep learning model for customer churn prediction.
 - [**Precision_recall.ipynb**](./Precision_recall.ipynb) → Evaluation Metrics: A focused notebook explaining and visualizing the key classification metrics: Precision, Recall, and the F1-Score.
+- [**Dropout layer/**](./Dropout%20layer) → Regularization Technique: Explores the implementation and impact of Dropout, a vital technique for preventing overfitting in large neural networks.
 
 ---
 
